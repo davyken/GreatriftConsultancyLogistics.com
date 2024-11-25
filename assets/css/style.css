@@ -310,7 +310,7 @@ body {
 .logo {
   font-family: var(--ff-oswald);
   color: var(--white);
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .nav-open-btn {
@@ -350,7 +350,7 @@ body {
 
 .navbar-top .logo {
   color: var(--onyx);
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .nav-close-btn { font-size: 25px; }
